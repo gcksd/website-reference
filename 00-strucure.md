@@ -2,7 +2,7 @@
 1. About
     1. Principal
     2. History
-    3. Facilities
+    3. 
 1. Departments
     1. Arabic
     2. Botany
@@ -30,10 +30,21 @@
     5. Consultancy
     6. Curricula
     7. Rules & Regulations
-1. Admissions
+1. Admission
     1. UG Admissions
     2. PG Admissions
     3. PhD
+1. Services
+    1. Women's Hostel
+    2. Men's Hostel
+    3. Students' Union
+    4. Antiragging Cell
+    5. Student's Couselling
+    6. ASAP
+    7. Walk with Scholar
+    8. SSP
+    9. Placement Cell
+    10. Students' Clubs
 1. IQAC
 1. Social Outreach
 1. News
